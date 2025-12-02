@@ -1,0 +1,18 @@
+body {
+  overflow: hidden;
+}
+
+.center {
+  margin: 0%;
+  padding: 0%;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+canvas {
+  border-color: black;
+  border-style: solid;
+}
